@@ -1,0 +1,13 @@
+Copyright © 2021 "mohammad izadi - gmail: mohammad1997izadi@gmail.com" All rights reserved
+/*************************************************************************
+ * 
+ * neural network
+ * __________________
+ * 
+ *  [2021] - neural network
+ *  All Rights Reserved.
+ * 
+ * you can contribute on this project in my hithub repository With my coordination to make it better
+ * but you cannot use it without any refrence
+ * if you intrested to contribute keep in touch with me by my email address
+ */
