@@ -10,3 +10,5 @@ https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to
 you need to install python3, numpy and pandas modules
 
 use python3 main.py to run project
+
+*if you intrested to contribute keep in touch with me with my email address*
